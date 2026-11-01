@@ -3,8 +3,8 @@
 ## Запуск
 
 ```bash
-git clone <ссылка-на-репозиторий>
-cd <папка-проекта>
+git clone https://github.com/Chursinov-Nikita/zaloghub-todo.git
+cd zaloghub-todo
 npm install
 npm run dev
 ```
