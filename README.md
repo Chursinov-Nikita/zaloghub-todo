@@ -1,5 +1,7 @@
 # Список задач тестовое задание ZalogHub
 
+Работающая версия: https://chursinov-nikita.github.io/zaloghub-todo/
+
 ## Запуск
 
 ```bash
@@ -9,7 +11,7 @@ npm install
 npm run dev
 ```
 
-Приложение откроется по адресу http://localhost:5173.
+Приложение откроется по адресу http://localhost:5173/zaloghub-todo/.
 
 ## Скрипты
 
